@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Colab Notebooks",
+			"path": "."
+		},
+		{
+			"name": "content",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"editor.guides.bracketPairs": true
+	}
+}
